@@ -1,0 +1,121 @@
+<!-- Made By Sidhant Suvagiya :) -->
+<mjml>
+  <mj-head>
+    <mj-title>Help Scout</mj-title>
+    <mj-raw>
+      <meta name="color-scheme" content="light">
+      <meta name="supported-color-schemes" content="light">
+    </mj-raw>
+  </mj-head>
+  <!--  Body Start -->
+  <mj-body background-color="#F1F3F5">
+    <!--  Logo Section -->
+    <mj-section padding="30px">
+      <mj-column>
+        <mj-image padding="0" href="https://sidhant.ml" width="150px" src="https://i.ibb.co/CnZBnb0/logo325-1.png" alt="logo" />
+      </mj-column>
+    </mj-section>
+    <!-- Section 1 -->
+    <mj-section padding="0px">
+      <mj-column border-radius="5px" padding="5%" background-color="#FFFFFF">
+        <mj-text font-weight="bold" padding-top="0px" color="#2a3b47" font-size="22px" line-height="30px"> Happy holidays from Help Scout! </mj-text>
+        <mj-text color="#72808e" font-size="15px" line-height="20px">As you enjoy some downtime on grandma's couch and search for something fun and interesting to read ... might we suggest some of our greatest hits from 2019? </mj-text>
+        <mj-text color="#72808e" font-size="15px" line-height="20px">Happy New Year, and happy reading! We'll see you in 2020!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="12px">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+    <!-- image Section 1 -->
+    <mj-section padding="0px" border-radius="5px" background-color="#FFFFFF">
+      <mj-column vertical-align="middle">
+        <mj-image padding="20px" border-radius="5px" src="https://i.ibb.co/f1P0pwy/img1.jpg" alt="img1" />
+      </mj-column>
+      <mj-column padding="0px 20px 20px 20px" vertical-align="middle">
+        <mj-text padding="5px" color="#2a3b47" font-size="17px" line-height="22px"> The Value of Taking a Sabbatical </mj-text>
+        <mj-text padding="5px" color="#72808e" font-size="14px" line-height="20px">A sabbatical isn't just good for the person taking time away from work; it's good for the whole company.</mj-text>
+        <mj-text padding="5px"> <a style="color:#1292ee;text-decoration:none;" href="https://sidhant.ml"> Read More → </a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="12px">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+    <!-- image Section 2 -->
+    <mj-section padding="0px" border-radius="5px" background-color="#FFFFFF">
+      <mj-column vertical-align="middle">
+        <mj-image padding="20px" border-radius="5px" src="https://i.ibb.co/Zx9WMLt/img2.jpg" alt="img2" />
+      </mj-column>
+      <mj-column padding="0px 20px 20px 20px" vertical-align="middle">
+        <mj-text padding="5px" color="#2a3b47" font-size="17px" line-height="22px"> How to Communicate Ideas Effectively </mj-text>
+        <mj-text padding="5px" color="#72808e" font-size="14px" line-height="20px">A framework for understanding where others are coming from, and how to make yourself understood.</mj-text>
+        <mj-text padding="5px"> <a style="color:#1292ee;text-decoration:none;" href="https://sidhant.ml"> Read More → </a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="12px">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+    <!-- image Section 3 -->
+    <mj-section padding="0px" border-radius="5px" background-color="#FFFFFF">
+      <mj-column vertical-align="middle">
+        <mj-image padding="20px" border-radius="5px" src="https://i.ibb.co/zfxtbH4/img3.jpg" alt="img3" />
+      </mj-column>
+      <mj-column padding="0px 20px 20px 20px" vertical-align="middle">
+        <mj-text padding="5px" color="#2a3b47" font-size="17px" line-height="22px"> How to Support Working Parents </mj-text>
+        <mj-text padding="5px" color="#72808e" font-size="14px" line-height="20px"> Work and family can coexist, and it starts with the workplace making a conscious choice to care for parents.</mj-text>
+        <mj-text padding="5px"> <a style="color:#1292ee;text-decoration:none;" href="https://sidhant.ml"> Read More → </a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="12px">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+    <!-- image Section 4 -->
+    <mj-section padding="0px" border-radius="5px" background-color="#FFFFFF">
+      <mj-column vertical-align="middle">
+        <mj-image padding="20px" border-radius="5px" src="https://i.ibb.co/mbXTSn4/img4.jpg" alt="img4" />
+      </mj-column>
+      <mj-column padding="0px 20px 20px 20px" vertical-align="middle">
+        <mj-text padding="5px" color="#2a3b47" font-size="17px" line-height="22px"> The Value of Face Time in a Remote Company </mj-text>
+        <mj-text padding="5px" color="#72808e" font-size="14px" line-height="20px">All async, all the time, is bad for business. Here's when it's best to hop on a video call (or an airplane).</mj-text>
+        <mj-text padding="5px"> <a style="color:#1292ee;text-decoration:none;" href="https://sidhant.ml"> Read More → </a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="12px">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+    <!-- image Section 5 -->
+    <mj-section padding="0px" border-radius="5px" background-color="#FFFFFF">
+      <mj-column vertical-align="middle">
+        <mj-image padding="20px" border-radius="5px" src="https://i.ibb.co/2s3crvP/img5.png" alt="img5" />
+      </mj-column>
+      <mj-column padding="0px 20px 20px 20px" vertical-align="middle">
+        <mj-text padding="5px" color="#2a3b47" font-size="17px" line-height="22px"> 13 Productivity Hacks to Maximize Your Time </mj-text>
+        <mj-text padding="5px" color="#72808e" font-size="14px" line-height="20px">The Help Scout team rounded up 13 of our best tips for working efficiently and maximizing our time.</mj-text>
+        <mj-text padding="5px"> <a style="color:#1292ee;text-decoration:none;" href="https://sidhant.ml"> Read More → </a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="12px">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+    <!-- Footer -->
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-social icon-size="30px">
+          <mj-social-element src="https://i.ibb.co/ryBzS6r/footer-btn-twitter-1.png" href="https://mjml.io/" target="_blank" alt="TW"> </mj-social-element>
+          <mj-social-element src="https://i.ibb.co/zPStDRs/footer-btn-facebook-1.png" href="https://mjml.io/" target="_blank" alt="FB"> </mj-social-element>
+          <mj-social-element src="https://i.ibb.co/fSY9354/footer-btn-rss-1.png" href="https://mjml.io/" target="_blank" alt="RSS"> </mj-social-element>
+          <mj-social-element icon-size="120%" src="https://i.ibb.co/JFcggnL/footer-btn-email-friend-2.png" href="https://mjml.io/" target="_blank" alt="email to friends"> </mj-social-element>
+        </mj-social>
+        <mj-text padding-bottom="25px" align="center" font-size="12px" line-height="25px" color="#72808e"> <a style="color:#72808e;text-decoration:none;" href="https://sidhant.ml" target="_blank"> view in your web browser </a> | <a style="color:#72808e;text-decoration:none;" href="https://sidhant.ml" target="_blank"> unsubscribe </a>
+          <br>
+          Made by Help Scout • 100 City Hall Plaza, 5th Floor • Boston MA • 02108 </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Body End -->
+  </mj-body>
+</mjml>
